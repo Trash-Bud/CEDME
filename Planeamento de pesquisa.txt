@@ -1,0 +1,34 @@
+Realização de uma aplicação movel multi tenant para permitir aos cidadãos contribuiram para a melhoria do espaço urbano atravez de fotografias e videos retirados a occurrências indesejadas nos seus municípios.
+
+Transformar a forma como a gestão do espaço urbano é feita tornando-a mais eficiente, inclusiva e adaptada às reais necessidades dos munícipios.
+Para além disso a palicação também visa funcionar como uma ferramenta de análise e classificação contribuindo para a melhoria contínua da sua Inteligência Artificial.
+
+Permitir aos cidadãos contribuir ativamente para a melhoria do espaço urbano, reportando várias ocorrências indesejáveis que observam de forma casual quando se deslocam pela cidade.
+Desenvolver uma aplicação móvel multi-tenant, capaz de se adaptar aos contextos específicos de diferentes municípios.
+Integrar a aplicação com meios de autenticação nacional e europeu, como a chave móvel digital (Portugal) e a European Digital Identity (EU) para facilitar a adoção e utilização da aplicação.
+Utilizar a aplicação como uma ferramenta de análise e classificação, utilizando os modelos de IA do projeto Tidy City para efetuar inferência remota das tipologias de ocorrências a partir das imagens captadas.
+Priorizar o processamento no dispositivo móvel (edge computing), garantindo uma melhor performance e reduzindo a necessidade de transmissão de dados.
+Permitir o acompanhamento do estado de resolução das ocorrências que reportaram, através da consulta de informação no servidor do projeto Tidy City.
+
+É esperado o desenvolvimento da aplicação de acordo com as especifcações necessárias (ainda a definir) bem como a recolha de dados a partir do seu teste e avaliação numa iniciativa piloto numa cidade Portuguesa.
+
+8
+Sim, já trabalhei com aplicações moveis assim como com frameworks multi-platform para estas em unidades curriculares do curso, nomeadamente Flutter em Engenharia de Software (ESOF) e Computação Movel (CPM).
+
+9 Não
+
+
+Mobile application
+Urban Management
+Active Citizenship
+Artificial Inteligence
+
+Mobile App, mobile program, mobile software
+Urban planning, urban development, urbanism
+active citizen, citizen participation in public life, civic culture of citizen participation
+machine intelligence, machine learning, ai
+
+Aplicações moveis sofreram mudanças muito drasticas nos ultimos 5 anos por isso pode ser necessário restringir os anos dos resultados.
+
+Informação sobre inteligência artificial muito tecnica visto que o trabalho em questão é só a criação da aplicação que vai dar informação a IA.
+Informação relacionada com planeamento urbano em termos de design urbano visto que a nossa aplicação foca-se só em ocurrência indesejadas que têm de ser resolvidas.
